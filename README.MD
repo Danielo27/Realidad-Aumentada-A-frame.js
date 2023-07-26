@@ -6,11 +6,11 @@
 
 ### ¡Bienvenido al emocionante mundo de la programación de Realidad Aumentada con A-Frame!
 
-### A-Frame es un framework de código abierto basado en javascript enfocado a el desarrollo Web, que te permite crear experiencias de Realidad Aumentada (AR) de manera sencilla y accesible. Con A-Frame, puedes construir escenas interactivas de AR utilizando componentes HTML y JavaScript, y visualizarlas en navegadores compatibles con tecnología WebXR. Aquí tienes una breve introducción para empezar con A-Frame:
+#### A-Frame es un framework de código abierto basado en javascript enfocado a el desarrollo Web, que te permite crear experiencias de Realidad Aumentada (AR) de manera sencilla y accesible. Con A-Frame, puedes construir escenas interactivas de AR utilizando componentes HTML y JavaScript, y visualizarlas en navegadores compatibles con tecnología WebXR. Aquí tienes una breve introducción para empezar con A-Frame:
 
 <br>
 
-### Configuración: Comienza por incluir el archivo de A-Frame en tu proyecto HTML. Puedes descargarlo e incluirlo localmente o utilizar la versión alojada en línea. Aquí tienes un ejemplo de cómo agregarlo desde una URL de CDN:
+#### Configuración: Comienza por incluir el archivo de A-Frame en tu proyecto HTML. Puedes descargarlo e incluirlo localmente o utilizar la versión alojada en línea. Aquí tienes un ejemplo de cómo agregarlo desde una URL de CDN:
 
 ``` html
 <!DOCTYPE html>
@@ -25,7 +25,7 @@
 </html>
 ```
 
-### Escena y Entidades: En A-Frame, todo se coloca dentro de una etiqueta: <a-scene>. Puedes agregar entidades como modelos 3D, imágenes, luces, etc. utilizando las etiquetas <a-entity> dentro de la escena. Por ejemplo, puedes añadir un cubo en la posición (0, 0, -5) utilizando el siguiente código:
+#### Escena y Entidades: En A-Frame, todo se coloca dentro de una etiqueta: <a-scene>. Puedes agregar entidades como modelos 3D, imágenes, luces, etc. utilizando las etiquetas <a-entity> dentro de la escena. Por ejemplo, puedes añadir un cubo en la posición (0, 0, -5) utilizando el siguiente código:
 
 ```html 
 <a-scene>
@@ -44,29 +44,30 @@
 </a-assets>
 ```
 
-### Luego, puedes utilizar el modelo en una entidad de la siguiente manera:
+#### Luego, puedes utilizar el modelo en una entidad de la siguiente manera:
 
 ``` html
 <a-entity gltf-model="#my-model"></a-entity>
 ``` 
 
-### Ahora te estaras preguntando y como detecta este proyecto el marcador usado para este recurso; la respuesta es muy sencilla, este marcador que aprecias en el video es un codigo de barras de una matriz de 3x3 que es igual a 5 es por ello que nuestro proyecto lo detecta, si tu cambias este valor tendrias que cambiar tu marcador por el codigo de barras respectivo al valor que colocaste. 
+#### Ahora te estaras preguntando y como detecta este proyecto el marcador usado para este recurso; la respuesta es muy sencilla, este marcador que aprecias en el video es un codigo de barras de una matriz de 3x3 que es igual a 5 es por ello que nuestro proyecto lo detecta, si tu cambias este valor tendrias que cambiar tu marcador por el codigo de barras respectivo al valor que colocaste. 
 
 <img src="https://user-images.githubusercontent.com/252962/27870433-c18f6e10-619a-11e7-8479-4cb662798740.png">
 
-### Estos son solo los conceptos básicos para comenzar con A-Frame. A medida que te familiarices más con la herramienta, podrás explorar características adicionales como animaciones, físicas, efectos visuales y mucho más.
+#### Estos son solo los conceptos básicos para comenzar con A-Frame. A medida que te familiarices más con la herramienta, podrás explorar características adicionales como animaciones, físicas, efectos visuales y mucho más.
 
-### Recuerda consultar la documentación oficial de A-Frame (https://aframe.io/docs/1.2.0/) para obtener más información, ejemplos y tutoriales detallados que te ayudarán a aprovechar al máximo este poderoso framework de Realidad Aumentada.
+#### Recuerda consultar la documentación oficial de A-Frame (https://aframe.io/docs/1.2.0/) para obtener más información, ejemplos y tutoriales detallados que te ayudarán a aprovechar al máximo este poderoso framework de Realidad Aumentada.
 
-### ¡Disfruta explorando y creando experiencias de Realidad Aumentada emocionantes con A-Frame! Si tienes más preguntas, ¡no dudes en preguntar!
+#### ¡Disfruta explorando y creando experiencias de Realidad Aumentada emocionantes con A-Frame! Si tienes más preguntas, ¡no dudes en preguntar!
+
+<br>
+
+#### Gracias a McCarthy3D quien es el creador del modelo 3D: 
+#### https://sketchfab.com/3d-models/spartan-armour-mkv-halo-reach-57070b2fd9ff472c8988e76d8c5cbe66
 
 <br>
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/nerd-face_1f913.png" width=20> Daniel Quintero 
-
-
-### Gracias a McCarthy3D quien es el creador del modelo 3D: 
-### https://sketchfab.com/3d-models/spartan-armour-mkv-halo-reach-57070b2fd9ff472c8988e76d8c5cbe66
 
 
 
