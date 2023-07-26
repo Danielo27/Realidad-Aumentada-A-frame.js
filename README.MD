@@ -65,7 +65,8 @@
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/nerd-face_1f913.png" width=20> Daniel Quintero 
 
 
-
+### Gracias a McCarthy3D quien es el creador del modelo 3D: 
+### https://sketchfab.com/3d-models/spartan-armour-mkv-halo-reach-57070b2fd9ff472c8988e76d8c5cbe66
 
 
 
