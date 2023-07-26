@@ -70,6 +70,14 @@
 
 <br>
 
+<hr>
+
+### <img src='https://em-content.zobj.net/source/microsoft-teams/363/winking-face-with-tongue_1f61c.png' width='20'> Sigueme en mis redes Sociales y enterate del contenido que hago: .
+
+<a target="_blank" href="https://www.linkedin.com/in/henry-daniel-quintero-henriquez/">![Likending](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a target="_blank" href="https://www.youtube.com/@DanielQuinteroHenriquez">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a> 
+<a target="_blank" href="mailto:danielquinterohenriquez@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/nerd-face_1f913.png" width=20> Daniel Quintero 
 
 
