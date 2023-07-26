@@ -34,9 +34,9 @@
 
 ```
 
-### Componentes y Interacciones: A-Frame permite extender la funcionalidad de las entidades mediante componentes personalizados. Puedes crear tus propios componentes JavaScript para controlar el comportamiento de los objetos en la escena, como movimientos, animaciones o interacciones con el usuario.
+#### Componentes y Interacciones: A-Frame permite extender la funcionalidad de las entidades mediante componentes personalizados. Puedes crear tus propios componentes JavaScript para controlar el comportamiento de los objetos en la escena, como movimientos, animaciones o interacciones con el usuario.
 
-### Assets: Puedes cargar recursos como modelos 3D, imágenes o sonidos utilizando la etiqueta <a-assets>. Esto te permite reutilizar los activos en diferentes partes de tu escena. Por ejemplo, puedes cargar un modelo 3D llamado "my-model" utilizando el siguiente código:
+#### Assets: Puedes cargar recursos como modelos 3D, imágenes o sonidos utilizando la etiqueta <a-assets>. Esto te permite reutilizar los activos en diferentes partes de tu escena. Por ejemplo, puedes cargar un modelo 3D llamado "my-model" utilizando el siguiente código:
 
 ``` html
 <a-assets>
